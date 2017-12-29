@@ -1,4 +1,4 @@
-CREATE TABLE hygdata_v3
+CREATE TABLE hygdata
 (
 	"id" TEXT,
 	"HipparcosID" TEXT,
