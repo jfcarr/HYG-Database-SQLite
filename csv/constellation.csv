@@ -10,9 +10,9 @@ Boo,Boötes
 Cae,Caelum
 Cam,Camelopardalis
 Cnc,Cancer
-CVn,Canes Venatici
-CMa,Canis Major
-CMi,Canis Minor
+CVn,"Canes Venatici"
+CMa,"Canis Major"
+CMi,"Canis Minor"
 Cap,Capricornus
 Car,Carina
 Cas,Cassiopeia
@@ -22,9 +22,9 @@ Cet,Cetus
 Cha,Chamaeleon
 Cir,Circinus
 Col,Columba
-Com,Coma Berenices
-CrA,Corona Austrina
-CrB,Corona Borealis
+Com,"Coma Berenices"
+CrA,"Corona Austrina"
+CrB,"Corona Borealis"
 Crv,Corvus
 Crt,Crater
 Cru,Crux
@@ -44,7 +44,7 @@ Hyi,Hydrus
 Ind,Indus
 Lac,Lacerta
 Leo,Leo
-LMi,Leo Minor
+LMi,"Leo Minor"
 Lep,Lepus
 Lib,Libra
 Lup,Lupus
@@ -64,7 +64,7 @@ Per,Perseus
 Phe,Phoenix
 Pic,Pictor
 Psc,Pisces
-PsA,Piscis Austrinus
+PsA,"Piscis Austrinus"
 Pup,Puppis
 Pyx,Pyxis
 Ret,Reticulum
@@ -78,10 +78,10 @@ Sex,Sextans
 Tau,Taurus
 Tel,Telescopium
 Tri,Triangulum
-TrA,Triangulum Australe
+TrA,"Triangulum Australe"
 Tuc,Tucana
-UMa,Ursa Major
-UMi,Ursa Minor
+UMa,"Ursa Major"
+UMi,"Ursa Minor"
 Vel,Vela
 Vir,Virgo
 Vol,Volans
