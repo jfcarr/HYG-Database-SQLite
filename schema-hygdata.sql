@@ -1,6 +1,6 @@
 CREATE TABLE hygdata
 (
-	"id" TEXT,
+	"id" INTEGER,
 	"HipparcosID" TEXT,
 	"HenryDraperID" TEXT,
 	"HarvardRevisedID" TEXT,
