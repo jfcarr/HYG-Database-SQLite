@@ -1,0 +1,14 @@
+*,"Single Star"
+**,"Double Star"
+***,"Triple Star"
+Ast,Asterism
+Gxy,Galaxy
+GxyCld,"Bright cloud/knot in a galaxy"
+GC,"Globular Cluster"
+HIIRgn,"HII Region"
+Neb,"Nebula (emission or reflection)"
+NF,"Not Found"
+OC,"Open Cluster"
+PN,"Planetary Nebula"
+SNR,"Supernova Remnant"
+MWSC,"Milky Way Star Cloud"
